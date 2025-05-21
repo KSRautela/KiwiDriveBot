@@ -20,3 +20,4 @@ A compact, omnidirectional robot using a Kiwi drive configuration, controlled wi
 - Bluetooth remote control via mobile apps or serial terminal
 - Custom PCB for tidy and reliable connections
 - Durable and lightweight acrylic chassis
+- 3D printed motor mounts
