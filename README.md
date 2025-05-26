@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/5732d972-ba0f-4c10-b5b0-181ebf96b11d
 # Kiwi Drive Bot 🤖🥝
 
 A compact, omnidirectional robot using a Kiwi drive configuration, controlled wirelessly via Bluetooth. Features a custom PCB and a precision laser-cut acrylic chassis.
@@ -25,4 +23,4 @@ A compact, omnidirectional robot using a Kiwi drive configuration, controlled wi
 - 3D printed motor mounts
 
 ## Working Video
-Uploading Group1.mp4…
+https://github.com/user-attachments/assets/5732d972-ba0f-4c10-b5b0-181ebf96b11d
